@@ -3,7 +3,7 @@ package codingtest;
 import java.util.Stack;
 
 public class 같은문자짝짓기 {
-//	commit test
+//	commit test!!!
 	public static void main(String[] args) {
 		String s = "cdcd";
 		int answer = searchTwo(s);
