@@ -1,7 +1,11 @@
 package datastrucure;
 
+import java.util.Arrays;
+
 public class 낙서장 {
 	public static void main(String[] args) {
-		System.out.println(1 != 1);
+		String str = "Abcedf";
+		char[] arr = str.toCharArray();
+		System.out.println(Arrays.toString(arr));
 	}
 }
