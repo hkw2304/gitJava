@@ -1,4 +1,4 @@
-package datastrucure;
+package datastrucure__search;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package datastrucure;
+package datastrucure__search;
 
 public class Kmp2 {
 	public static void main(String[] args) {

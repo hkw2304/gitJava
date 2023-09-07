@@ -1,4 +1,4 @@
-package datastrucure;
+package datastrucure__search;
 
 public class 보이어무어 {
 	public static void main(String[] args) {
